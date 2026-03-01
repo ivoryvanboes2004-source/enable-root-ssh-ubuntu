@@ -30,6 +30,6 @@ Only run this if you understand the consequences.
 ## Usage
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOURNAME/REPO/main/enable-root-and-purge-users.sh -o enable-root.sh
+curl -fsSL https://raw.githubusercontent.com/ivoryvanboes2004-source/enable-root-ssh-ubuntu/refs/heads/main/enable-root-ssh.sh -o enable-root.sh
 chmod +x enable-root.sh
 sudo ./enable-root.sh
